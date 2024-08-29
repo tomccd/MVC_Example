@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/main.dir/src/main.cpp.o  -o main  libMVC_Manage_Folder.a -lstdc++fs -lSDL2_mixer 
