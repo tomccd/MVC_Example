@@ -1,4 +1,0 @@
-/home/tomccd/Code/C++/Manage_Folder/main/build/CMakeFiles/rebuild_cache.dir
-/home/tomccd/Code/C++/Manage_Folder/main/build/CMakeFiles/edit_cache.dir
-/home/tomccd/Code/C++/Manage_Folder/main/build/CMakeFiles/main.dir
-/home/tomccd/Code/C++/Manage_Folder/main/build/CMakeFiles/MVC_Manage_Folder.dir

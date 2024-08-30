@@ -1,2 +1,0 @@
-/usr/bin/ar qc libMVC_Manage_Folder.a  CMakeFiles/MVC_Manage_Folder.dir/src/MVC_Manage_Folder.cpp.o
-/usr/bin/ranlib libMVC_Manage_Folder.a
