@@ -9,8 +9,7 @@ class MediaView{
             cout << "Path: "<<file->getFilePath()<<endl;
             cout << "Duration: "<<file->getDuration()<<endl;
             cout << "Size: "<<file->getFileSize()<<endl;
-            
+            map<string, string> tmp = file->getMetadata();    
         }
-        // Display metadata for audio file
 };
 #endif
